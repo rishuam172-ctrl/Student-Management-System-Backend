@@ -127,7 +127,7 @@ npm start       # Production
 
 Server starts at: `http://localhost:3000`
 
-## 🧪 API Testing (Postman)
+## API Testing (Postman)
 
 1. Open Postman
 2. Import `Student_Management_API.postman_collection.json`
@@ -136,7 +136,7 @@ Server starts at: `http://localhost:3000`
 
 ---
 
-## 🖥️ Frontend Features
+## Frontend Features
 
 - **Dashboard** with live stats (total students, pages, etc.)
 - **Student table** with search, pagination, status badges
@@ -147,7 +147,7 @@ Server starts at: `http://localhost:3000`
 
 ---
 
-## 💡 Engineering Decisions
+## Engineering Decisions
 
 | Decision | Rationale |
 |----------|-----------|
